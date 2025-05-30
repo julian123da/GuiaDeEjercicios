@@ -20,3 +20,8 @@ Los ejercicios de fuerza están diseñados para aumentar la masa muscular, la re
    Realiza 3–4 series de 8–15 repeticiones por ejercicio.
 3. **Enfriamiento (5–10 min):** estiramientos estáticos enfocados en los grupos musculares trabajados.
 
+## Consejos
+- Mantén una técnica correcta para evitar lesiones.
+- Hidrátate antes, durante y después.
+- No descuides el descanso entre sesiones (48 h por grupo muscular).
+- Aumenta progresivamente la carga para mejorar resultados.
