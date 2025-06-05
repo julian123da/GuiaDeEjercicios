@@ -7,3 +7,9 @@ El pilate es un metodo de entrenamiento quese enfoca en fortalecer el nucleo del
 -fortalece los musculos profundos del abdomen y la espalda.
 - mejora la postura y la alineacion corporal.
 -aumenta la flexibilidad y el equilibrio.
+
+##Instrucciones
+-inicia con ejercicios de respiracion para activiar el centro.
+-realiza movimientos controlados enfocados en calidad, no cantidad.
+-manten una alineacion adecuada durante todo el ejercicio.
+
