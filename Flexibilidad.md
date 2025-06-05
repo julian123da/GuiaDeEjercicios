@@ -12,3 +12,7 @@ Los ejercicios de flexibilidad son actividades que mejoran el rango de movimient
 1.Inicia con un calentamieto ligero de 5-10 minutos.
 2.Realiza estiramientos suaves, manteniendo cada posicion durante al menos 20-30 segundos.
 3.No rebotes; manten los movimientos lentos y controlados.
+
+##Consejos
+-No estires hasta sentir dolor, solo hasta una tension cómoda.
+-Respira profundamente mientras realizas los estiramientos.
