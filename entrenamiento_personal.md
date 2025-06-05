@@ -10,3 +10,7 @@ El entrenamiento personal es un programa de ejercicios diseñado especificamene 
 
 ##Instrucciones
 1.Dfine tus objetivos (bajar de pesa, ganar fuerza, mejorar resistencia, etc)-
+
+##Consejos
+-Consulta con un profesional para crear tu rutina inicial.
+-Escucha a tu cuerpo y descansa cuando sea necesario.
