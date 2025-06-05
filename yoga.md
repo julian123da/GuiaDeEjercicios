@@ -8,3 +8,6 @@ El yoga es una disciplina que combina posturas fisicas, respiracion y medicion p
 2.Realiza una serie de posturas (asanas) con forma lenta y controlada.
 3.Finaliza con una relajacion o meditacion breve como (savasana).
 
+##Consejos
+practica en un espacio tranquilo y con ropa comoda
+no fierces las posturas, escucha a tu cuerpo.
