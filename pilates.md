@@ -13,3 +13,5 @@ El pilate es un metodo de entrenamiento quese enfoca en fortalecer el nucleo del
 -realiza movimientos controlados enfocados en calidad, no cantidad.
 -manten una alineacion adecuada durante todo el ejercicio.
 
+##Consejos
+concentrate en la respiracion y el control de los movimientos. Usa una colchoneta o superficie comoda para proteger tu espalda-
