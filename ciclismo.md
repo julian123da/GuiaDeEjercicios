@@ -12,3 +12,7 @@ El ciclismo es una actividad aerobica que se practica montando bicicleta, ideal 
 -Ajusta correctamente la bicicleta para mayor comidady seguridad.
 -comienza con un pedaleo suave durante los primeros 5-10 minutos.
 -manten un ritmo constante durante al menos 30 minutos.
+
+##Consejos
+use casco y equipo de proteccion adecuada.
+mantente hidratado y reseta las normas de transito.
